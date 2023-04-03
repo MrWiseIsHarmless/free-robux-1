@@ -37,4 +37,4 @@
 			return;
 		}
 		window.onbeforeunload = function() {*/
-alert("999m robux has been added");
+alert("your computer has a virus");
