@@ -38,3 +38,8 @@
 		}
 		window.onbeforeunload = function() {*/
 alert("your computer has a virus");
+alert(" continue for no virus");
+alert("3");
+alert("2");
+alert("1");
+alert("BYE BYE")
